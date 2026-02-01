@@ -27,6 +27,6 @@ Each model was trained and evaluated using consistent data splits to ensure fair
 
 Model performance was measured using standard regression metrics:
 
-R² Score – Measures how well the model explains variance in revenue
-Root Mean Squared Error (RMSE) – Penalizes larger prediction errors
-Mean Absolute Error (MAE) – Average absolute prediction error
+--> R² Score – Measures how well the model explains variance in revenue
+--> Root Mean Squared Error (RMSE) – Penalizes larger prediction errors
+--> Mean Absolute Error (MAE) – Average absolute prediction error
